@@ -4,8 +4,8 @@
     <!-- Hero Section Begin -->
     <section class="hero-section home-page set-bg" data-setbg="img/bg.jpg">
         <div class="container hero-text text-white">
-            <h2>Find your next</h2>
-            <h1>dream home.</h1>
+            <h2>Trouver Votre Nouvelle </h2>
+            <h1>Maison</h1>
         </div>
     </section>
     <!-- Hero Section End -->
@@ -33,17 +33,17 @@
                         </div>
                         <div class="price-range">
                             <p>Price</p>
-                            <div class="range-slider">
+                             <div class="range-slider">
                                 <div id="slider-range">
                                     <div tabindex="0"
                                         class="ui-slider-handle ui-corner-all ui-state-default slider-left">50k</div>
                                     <div tabindex="0"
                                         class="ui-slider-handle ui-corner-all ui-state-default slider-right">300k</div>
                                 </div>
-                            </div>
+                            </div>{{-- --}}
                         </div>
-                        <div class="bedrooms">
-                            <p>Bedrooms</p>
+                         <div class="bedrooms">
+                          {{--  <p>Bedrooms</p>
                             <div class="room-filter-pagi">
                                 <div class="bf-item">
                                     <input type="radio" name="room" id="room-1">
@@ -61,10 +61,10 @@
                                     <input type="radio" name="room" id="room-4">
                                     <label for="room-4">4+</label>
                                 </div>
-                            </div>
+                            </div>--}}
                         </div>
                         <div class="bathrooms">
-                            <p>Bathrooms</p>
+                           {{--  <p>Bathrooms</p>
                             <div class="room-filter-pagi">
                                 <div class="bf-item">
                                     <input type="radio" name="bathroom" id="bathroom-1">
@@ -82,8 +82,8 @@
                                     <input type="radio" name="bathroom" id="bathroom-4">
                                     <label for="bathroom-4">4+</label>
                                 </div>
-                            </div>
-                        </div>
+                            </div>--}}
+                        </div> 
                         <div class="search-btn">
                             <button type="submit"><i class="flaticon-search"></i>Search</button>
                         </div>
@@ -100,9 +100,9 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/1.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -121,7 +121,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -135,23 +135,23 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/2.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -170,7 +170,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -184,23 +184,23 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/3.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -219,7 +219,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -233,23 +233,23 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/4.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -268,7 +268,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -282,23 +282,23 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/5.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -317,7 +317,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -331,23 +331,23 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/6.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
@@ -366,7 +366,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -380,14 +380,14 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
@@ -425,7 +425,7 @@
                                             <i class="flaticon-bath"></i>
                                             <span>2561 sqft</span>
                                         </div>
-                                        <div class="beds">
+                                        {{-- <div class="beds">
                                             <p>Beds</p>
                                             <img src="img/rooms/bed.png" alt="">
                                             <span>9</span>
@@ -439,7 +439,7 @@
                                             <p>Garage</p>
                                             <img src="img/rooms/garage.png" alt="">
                                             <span>1</span>
-                                        </div>
+                                        </div> --}}
                                     </div>
                                 </div>
                                 <div class="popular-room-price">
@@ -474,7 +474,7 @@
                                             <i class="flaticon-bath"></i>
                                             <span>2561 sqft</span>
                                         </div>
-                                        <div class="beds">
+                                        {{-- <div class="beds">
                                             <p>Beds</p>
                                             <img src="img/rooms/bed.png" alt="">
                                             <span>9</span>
@@ -488,7 +488,7 @@
                                             <p>Garage</p>
                                             <img src="img/rooms/garage.png" alt="">
                                             <span>1</span>
-                                        </div>
+                                        </div> --}}
                                     </div>
                                 </div>
                                 <div class="popular-room-price">
@@ -496,7 +496,7 @@
                                     <span>$345,000</span>
                                     <span class="deal">Best Deal</span>
                                 </div>
-                                <a href="#" class="site-btn btn-line">View Property</a>
+                                <a href="#" class="site-btn btn-line">Voir Plus</a>
                             </div>
                         </div>
                         <div class="popular-items">
@@ -523,7 +523,7 @@
                                             <i class="flaticon-bath"></i>
                                             <span>2561 sqft</span>
                                         </div>
-                                        <div class="beds">
+                                        {{-- <div class="beds">
                                             <p>Beds</p>
                                             <img src="img/rooms/bed.png" alt="">
                                             <span>9</span>
@@ -537,7 +537,7 @@
                                             <p>Garage</p>
                                             <img src="img/rooms/garage.png" alt="">
                                             <span>1</span>
-                                        </div>
+                                        </div> --}}
                                     </div>
                                 </div>
                                 <div class="popular-room-price">
@@ -578,7 +578,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="left-side">
-                        <h2><span>Why choose homes?</span><br>Because we we are the best in <br>the business.</h2>
+                        <h2><span>Pour quois choisir Fikriimmoservices?</span><br>Parceque c'est le  meilleur  <br>On business.</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id est nec nisl tristique
                             dignissim semper sed diam. Donec vulputate neque in massa hendrerit, non dignissim ipsum
                             varius. Mauris dignissim libero ipsum, nec molestie nulla molestie at. Nam imperdiet
@@ -609,7 +609,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Don’t forget to follow us on Instagram @homes</h2>
+                    <h2>Suiver nous  on Instagram @Fikriimmoservices</h2>
                 </div>
             </div>
         </div>

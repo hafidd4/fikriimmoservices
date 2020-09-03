@@ -31,7 +31,7 @@
     <!-- Hero Section Begin -->
     <section class="hero-section set-bg search-result" data-setbg="img/bg.jpg">
         <div class="container hero-text text-white">
-            <h2>Search Results</h2>
+            <h2>Resultat Du Recherche </h2>
         </div>
     </section>
     <!-- Hero Section End -->
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                         <div class="bedrooms">
-                            <p>Bedrooms</p>
+                            {{-- <p>Bedrooms</p>
                             <div class="room-filter-pagi">
                                 <div class="bf-item">
                                     <input type="radio" name="room" id="room-1">
@@ -87,10 +87,10 @@
                                     <input type="radio" name="room" id="room-4">
                                     <label for="room-4">4+</label>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <div class="bathrooms">
-                            <p>Bathrooms</p>
+                            {{-- <p>Bathrooms</p>
                             <div class="room-filter-pagi">
                                 <div class="bf-item">
                                     <input type="radio" name="bathroom" id="bathroom-1">
@@ -108,7 +108,7 @@
                                     <input type="radio" name="bathroom" id="bathroom-4">
                                     <label for="bathroom-4">4+</label>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <div class="search-btn">
                             <button type="submit"><i class="flaticon-search"></i>Search</button>
@@ -149,17 +149,17 @@
                 <div class="col-lg-4 col-md-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/1.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -170,7 +170,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -184,31 +184,31 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/2.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -219,7 +219,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -233,31 +233,31 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-md-6">
                     <div class="room-items">
                         <div class="room-img set-bg" data-setbg="img/rooms/3.jpg">
-                            <a href="#" class="room-content">
+                            {{-- <a href="#" class="room-content">
                                 <i class="flaticon-heart"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="room-text">
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -268,7 +268,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -282,14 +282,14 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
@@ -304,9 +304,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -317,7 +317,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -331,14 +331,14 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
@@ -353,9 +353,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -366,7 +366,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -380,14 +380,14 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
@@ -402,9 +402,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -415,7 +415,7 @@
                                         <i class="flaticon-bath"></i>
                                         <span>2561 sqft</span>
                                     </div>
-                                    <div class="beds">
+                                    {{-- <div class="beds">
                                         <p>Beds</p>
                                         <img src="img/rooms/bed.png" alt="">
                                         <span>9</span>
@@ -429,14 +429,14 @@
                                         <p>Garage</p>
                                         <img src="img/rooms/garage.png" alt="">
                                         <span>1</span>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="room-price">
                                 <p>For Sale</p>
                                 <span>$345,000</span>
                             </div>
-                            <a href="#" class="site-btn btn-line">View Property</a>
+                            <a href="#" class="site-btn btn-line">Voir Plus</a>
                         </div>
                     </div>
                 </div>
