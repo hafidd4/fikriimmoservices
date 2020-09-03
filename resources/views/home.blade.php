@@ -157,9 +157,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -206,9 +206,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -255,9 +255,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -304,9 +304,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -353,9 +353,9 @@
                             <div class="room-details">
                                 <div class="room-title">
                                     <h5>Country Style House with beautiful garden and terrace</h5>
-                                    <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                    {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
                                     <a href="#" class="large-width"><i class="flaticon-cursor"></i> <span>Show on
-                                            Map</span></a>
+                                            Map</span></a> --}}
                                 </div>
                             </div>
                             <div class="room-features">
@@ -455,8 +455,8 @@
                                 <div class="popular-room-details">
                                     <div class="popular-room-title">
                                         <h5>Spacious Modern Smart House</h5>
-                                        <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
-                                        <a href="#"><i class="flaticon-cursor"></i> <span>Show on Map</span></a>
+                                        {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                        <a href="#"><i class="flaticon-cursor"></i> <span>Show on Map</span></a> --}}
                                     </div>
                                 </div>
                                 <div class="popular-room-description">
@@ -504,8 +504,8 @@
                                 <div class="popular-room-details">
                                     <div class="popular-room-title">
                                         <h5>Spacious Modern Smart House</h5>
-                                        <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
-                                        <a href="#"><i class="flaticon-cursor"></i> <span>Show on Map</span></a>
+                                        {{-- <a href="#"><i class="flaticon-placeholder"></i> <span>Location</span></a>
+                                        <a href="#"><i class="flaticon-cursor"></i> <span>Show on Map</span></a> --}}
                                     </div>
                                 </div>
                                 <div class="popular-room-description">
