@@ -19,6 +19,8 @@ class CreatePostsTable extends Migration
             $table->decimal('price',8,2);
             $table->double('Length');
             $table->double('width');
+            $table->string('location');
+            
             $table->timestamps();
         });
     }
