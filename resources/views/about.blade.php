@@ -29,7 +29,7 @@
     <!-- Hero Section Begin -->
     <section class="hero-section set-bg about-us" data-setbg="img/bg.jpg">
         <div class="container hero-text text-white">
-            <h2>About Us</h2>
+            <h2>Qui Somme Nous</h2>
         </div>
     </section>
     <!-- Hero Section End -->
@@ -39,14 +39,14 @@
             <div class="row">
                 <div class="col-xl-6 about-text-warp">
                     <div class="about-text">
-                        <h2>Welcome to homes. The place where you can find your dream.</h2>
+                        <h2>Bienvenu au Fikriimmoservices . la place vous trouvez votre nouvelle maison.</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique justo aliquam lacus
                             ultrices, a feugiat urna blandit. Vivamus consequat purus eu risus tempor, sit amet rutrum
                             justo aliquet. Donec nec orci non eros aliquet blandit eu sed magna. Cras semper lacus
                             tempus nisl pretium, eu pretium dolor sollicitu-din. Nunc porttitor, libero a efficitur
                             interdum, ex mi ornare quam, at tempor tortor dui ac mi. Donec blandit sit amet est non
                             condimentum.</p>
-                        <a href="#" class="site-btn a-btn">View our Listings</a>
+                        <a href="#" class="site-btn a-btn">Voir Notre Liste</a>
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -61,7 +61,7 @@
     </section>
     <!-- About Us Sectiion End -->
     <!-- Team Sectiion Begin -->
-    <section class="team-section">
+    {{-- <section class="team-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -106,7 +106,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Team Sectiion End -->
     <!-- Count Sectiion Begin -->
     <div class="counter-section">

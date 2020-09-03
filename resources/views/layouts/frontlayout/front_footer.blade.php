@@ -14,11 +14,11 @@
         </div>
         <!-- Rooms Pic Section End -->
         <div class="container">
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-lg-12 text-center sp-60">
                     <img src="img/only-logo.png" alt="">
                 </div>
-            </div>
+            </div> --}}
             <div class="row p-37">
                 <div class="col-lg-4">
                     <div class="about-footer">
@@ -26,16 +26,16 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend tristique venenatis.
                             Maecenas a rutrum tellus nam vel semper nibh.</p>
                         <div class="footer-social">
-                            <a href="#"><i class="fa fa-pinterest"></i></a>
                             <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                      <a href="#"><i class="fa fa-instagram"></i></a> 
+                            {{-- <a href="#"><i class="fa fa-twitter"></i></a>
                             <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-behance"></i></a>
+                            <a href="#"><i class="fa fa-behance"></i></a> --}}
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="footer-blog">
+                 <div class="col-lg-4 col-md-6">
+                   {{-- <div class="footer-blog">
                         <h5>Latest Blog Posts</h5>
 
                         <div class="single-blog">
@@ -70,8 +70,8 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
-                </div>
+                    </div>--}}
+                </div> 
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-address">
                         <h5>Get In Touch</h5>
@@ -91,7 +91,7 @@
                 <div class="col-lg-12 text-center">
                     <div class="copyright">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | made  by <a href="https://armeweb.com" target="_blank">Armeweb</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
                     </div>
