@@ -20,7 +20,7 @@ class CreatePostsTable extends Migration
             $table->double('Length');
             $table->double('width');
             $table->string('location');
-            
+            $table->string('locationss');
             $table->timestamps();
         });
     }
