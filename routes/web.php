@@ -20,3 +20,4 @@ Route::get('/contact','HomeController@contact');
 Route::get('/a_louer','HomeController@a_louer');
 Route::get('/neuf','HomeController@neuf');
 Route::get('/recherche','HomeController@recherche');
+Route::view('/admin','layouts/admin/layout');

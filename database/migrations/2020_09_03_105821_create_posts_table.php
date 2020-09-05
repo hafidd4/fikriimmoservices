@@ -20,10 +20,14 @@ class CreatePostsTable extends Migration
             $table->double('Length');
             $table->double('width');
             $table->string('location');
-            $table->string('locationss');
-            $table->string('locationss');
-            $table->string('locationss');
+            $table->string('locations');
+            $table->unsignedBigInteger('catigory_id');
+            $table->unsignedBigInteger('property_id');
+            $table->unsignedBigInteger('user_id');
             $table->timestamps();
+            $table->foreign('catigory_id')->references('id')->on('catigories')->onDelete('cascade');
+            $table->foreign('property_id')->references('id')->on('properties')->onDelete('cascade');
+            $table->foreign('user_id')->references('id')->on('users');
         });
     }
 

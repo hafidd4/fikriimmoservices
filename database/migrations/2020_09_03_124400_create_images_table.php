@@ -18,10 +18,8 @@ class CreateImagesTable extends Migration
             $table->string('link');
             $table->char('type');
             $table->unsignedBigInteger('post_id');
-            $table->foreign('post_id')->references('id')->on('posts')->onDelete('cascade');
-            $table->foreign('post_id')->references('id')->on('posts')->onDelete('cascade');
-
             $table->timestamps();
+            $table->foreign('post_id')->references('id')->on('posts');
         });
     }
 
